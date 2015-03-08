@@ -36,7 +36,7 @@ T.B.D.
 
 ## License
 
-Copyright (c) 2014 [Metasepi team](http://www.metasepi.org/).
+Copyright (c) 2015 [Metasepi team](http://www.metasepi.org/).
 
 It is distributed under GNU General Public Licence version 3 or later (GPLv3+),
 Please see ["COPYING"](COPYING).
