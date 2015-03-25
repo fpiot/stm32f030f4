@@ -32,7 +32,7 @@ $ sudo make write
 
 ### [BAITE - ST-LINK V2](http://www.aliexpress.com/item/Free-Shipping-1SET-ST-Link-st-link-V2-for-STM8S-STM8L-STM32-Cortex-M0-Cortex-M3/1619197946.html)
 
-T.B.D.
+![](draw/connect-stlink-BAITE.png)
 
 ## License
 
